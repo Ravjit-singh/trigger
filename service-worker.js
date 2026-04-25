@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "trigger-v1.1";
+const CACHE_NAME = "trigger-v1.2";
 const urlsToCache = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", event => {
